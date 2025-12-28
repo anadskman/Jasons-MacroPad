@@ -1,6 +1,6 @@
 # Jason's MacroPad
 
-![jasonsmacropad](https://github.com/user-attachments/assets/67035378-cdbe-4f2a-b01e-7e8bea73402d)
+![jasonsmacropad](https://github.com/user-attachments/assets/bf8ed479-07e9-4ca9-9087-30d8b3be3186)
 
 This is my first keyboard and I decided to make a small cut, copy, and paste board.
 The board has 'Ctrl', 'X', 'C' and 'V'
@@ -13,6 +13,7 @@ I faced a few difficulties, mainly just the firmware, while making this but than
 ### Parts
 
 - 4x Cherry MX Switches
+
 - 2x SK6812 MINI Leds
 - 1x XIAO RP2040
 - 4x Blank DSA Keycaps
