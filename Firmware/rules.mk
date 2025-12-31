@@ -1,0 +1,7 @@
+LTO_ENABLE = yes
+
+RGBLIGHT_ENABLE = yes
+WS2812_DRIVER = vendor
+OLED_ENABLE = yes
+ENCODER_ENABLE = yes
+RAW_ENABLE = yes
