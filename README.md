@@ -1,9 +1,11 @@
 # Jason's MacroPad
 
-![jasonsmacropad](https://github.com/user-attachments/assets/bf8ed479-07e9-4ca9-9087-30d8b3be3186)
+![jasonsmacropad](https://github.com/user-attachments/assets/bf7b259f-0077-407b-aa94-c1822d87f5eb)
 
 This is my first keyboard and I decided to make a small cut, copy, and paste board.
-The board has 'Ctrl', 'X', 'C' and 'V'
+The board has 'Ctrl', 'X', 'C' and 'V'.
+I added a Oled screen and a rotary encoder to display your pc's clipboard.
+
 
 ### My Experience
 
@@ -13,17 +15,19 @@ I faced a few difficulties, mainly just the firmware, while making this but than
 ### Parts
 
 - 4x Cherry MX Switches
-
+- 1x 0.91 inch OLED display
 - 2x SK6812 MINI Leds
 - 1x XIAO RP2040
 - 4x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
+- 1x EC11 Rotary encoder
 
 - QMK Firmware
+- send-clipboard.py
 - Top Case.stl
 - Bottom Case.stl
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](https://github.com/user-attachments/assets/05896da5-5241-4465-9e1d-72411318f9a9) | ![image](https://github.com/user-attachments/assets/65d7ca54-e85a-48f9-a5d5-33a6b77e8e2e) | ![image](https://github.com/user-attachments/assets/59b9c935-33c6-43b9-ba38-5987fd36f767)
+![image](https://github.com/user-attachments/assets/c5ba0382-0b40-490e-97eb-2c30ba17d3d4) | ![image](https://github.com/user-attachments/assets/77980042-01e9-48ff-be65-d9850b1103fc) | ![image](https://github.com/user-attachments/assets/ad35be49-b1d9-4854-a728-0dc10408c16d)
