@@ -6,13 +6,12 @@ from kmk.keys import KC
 keyboard = KMKKeyboard()
 
 # Use D1–D4 for your buttons
-PINS = [board.D1, board.D2, board.D3, board.D4]
+PINS = [board.RX, board.SCK, board.MOSI, board.MISO]
 
 # Single-row scanner for 4 keys
 keyboard.matrix = KeysScanner(
     pins=PINS,
     value_when_pressed=True,  # True if button connects to GND
-    pull=True                 # enables internal pull-up
 )
 
 # Keymap: each button types a letter
