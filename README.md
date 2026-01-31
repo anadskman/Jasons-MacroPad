@@ -31,3 +31,7 @@ I faced a few difficulties, mainly just the firmware, while making this but than
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![image](https://github.com/user-attachments/assets/c5ba0382-0b40-490e-97eb-2c30ba17d3d4) | ![image](https://github.com/user-attachments/assets/77980042-01e9-48ff-be65-d9850b1103fc) | ![image](https://github.com/user-attachments/assets/ad35be49-b1d9-4854-a728-0dc10408c16d)
+
+## Finished Product
+![IMG_8944](https://github.com/user-attachments/assets/0ad4c859-3b96-4f09-9b37-48c0f5367f6c)
+
